@@ -6,8 +6,9 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
+flask-bcrypt = "*"
 
 [dev-packages]
-9o
+
 [requires]
 python_version = "3.8"
